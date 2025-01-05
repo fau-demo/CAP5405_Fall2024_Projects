@@ -42,4 +42,4 @@ For the T01_Color_transfer project:
    python gray_gui.py
    
 ## Acknowledgements
-Special thanks to Dr.Velibor Adzic and the students of the Fall 2024 semester for their efforts in creating these projects.
+Special thanks to the students of the Fall 2024 semester for their efforts in creating these projects, and to TA Vaishnavi Dhulipudi for working with students and putting together this repository.
