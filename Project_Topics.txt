@@ -1,0 +1,43 @@
+Project topics:
+
+1. Simple editing GUI
+ Recreation of a simple editing GUI with functionality similar to Canva Image Adjust tool, including white balance, light, color, and texture.
+
+2. Histogram and curves adjustment GUI 
+ Recreation of a histogram and curves adjustment GUI like the one in Photoshop.
+
+3. Image adjustment tool     
+ Recreation of an image adjustment tool like the one in iPhone/Android phones, with GUI.
+
+4. Filters tool  
+ Recreation of the filters (at least 10) from Instagram/Canva with adjustable tool - with GUI.
+
+5. Mosaic from dataset     
+Recreation of a mosaic tool to generate an image as a mosaic of smaller images from a dataset, with GUI.
+
+6. Color-based retrieval     
+Recreation of a color-based retrieval tool to return images of a given color (name or code) from a dataset, with GUI and a color picker option.
+
+7. Color transfer     
+Recreation of a color transfer tool to transfer colors from one image to another in the dataset, with GUI.
+
+8. Edge matching  
+Recreation of an edge matching tool to find images with similar edge profiles in a dataset, with GUI.
+
+9. Morphological matching  
+Analyse selected image and find all the images from the dataset with the "similar" morphological profile - with GUI.
+
+10. Frequency matching     
+Analyse selected image and find all the images from the dataset with the "similar" spectrogram - with GUI.
+
+11. Histogram matching GUI  
+Recreation of a histogram matching GUI with a freehand drawing tool.
+
+12. Simple Lossless codec  
+Recreation of a simple lossless codec by implementing an adaptive encoder and decoder for images.
+
+13. Simple JPEG codec     
+Recreation of a simple JPEG codec by implementing a basic JPEG encoder and decoder.
+
+14. Weighted Voronoi image stippling     
+Implementing a version of weighted Voronoi image stippling.

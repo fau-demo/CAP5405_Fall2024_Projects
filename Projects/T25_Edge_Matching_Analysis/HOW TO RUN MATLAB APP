@@ -1,0 +1,8 @@
+HOW TO RUN MATLAB APP 
+
+1. Open Matlab and open APPS -> Design App -> Open file
+2. Run or F5 -> open GUI tool
+3. Please load file and select technique from the dropdown list and press apply edge detection 
+4. After applying edge detection , Click Find Similar button to find the similar frequency images (New tab opens)
+
+MATLAB version -> R2024B 

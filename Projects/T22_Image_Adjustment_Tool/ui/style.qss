@@ -1,0 +1,66 @@
+/* General Style */
+QWidget {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+#imageViewer {
+    border: 2px dashed #bbb;
+    background-color: #fff;
+    color: #888;
+}
+
+#rightPanel {
+    background-color: #f0f0f0;
+    border-left: 1px solid #ccc;
+    padding: 10px;
+}
+
+/* Sliders */
+QSlider::groove:horizontal {
+    height: 10px;
+    background: #ddd;
+    border-radius: 5px;
+}
+
+QSlider::handle:horizontal {
+    background: #0078d7;
+    width: 20px;
+    margin: -5px 0;
+    border-radius: 10px;
+}
+
+/* Buttons */
+QPushButton {
+    background-color: #0078d7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+QPushButton:hover {
+    background-color: #005bb5;
+}
+
+#saveButton {
+    background-color: #28a745;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
+QPushButton#saveButton:hover {
+    background-color: #218838;
+}
+
+/* Bottom Bar Buttons */
+QPushButton {
+    margin: 5px;
+}
+
+QHBoxLayout {
+    background-color: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+}

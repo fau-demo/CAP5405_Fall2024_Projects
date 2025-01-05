@@ -1,0 +1,8 @@
+# Python version
+python>=3.7.4
+
+# Image processing library
+Pillow==9.0.1
+
+# GUI framework
+tkinter  # Pre-installed in Python for most systems, no need for pip installation

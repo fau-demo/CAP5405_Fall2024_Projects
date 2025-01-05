@@ -1,0 +1,20 @@
+# Core Numerical and Array Processing
+numpy==1.24.3  # NumPy is used for efficient numerical computations, array manipulations, and matrix operations.
+
+# Computer Vision Library
+opencv-python==4.8.0.74  # OpenCV provides tools for image processing, computer vision, and matrix transformations.
+
+# Data Visualization
+matplotlib==3.7.2  # Matplotlib is used to create plots, graphs, and spectrogram visualizations for the project.
+
+# Scientific Computing and Signal Processing
+scipy==1.10.1  # SciPy offers functions for signal processing (e.g., spectrogram generation) and mathematical operations.
+
+# Image Handling
+Pillow==9.5.0  # Pillow is used for image file manipulation, including format conversion and resizing operations.
+
+# Image Metrics and Similarity Analysis
+scikit-image==0.20.0  # Scikit-Image is used for structural similarity (SSIM) calculations and advanced image processing tasks.
+
+# GUI Support (Included for Completeness)
+tk==0.1.0  # Placeholder for tkinter GUI functionality (GUI framework built into Python, usually does not require pip installation).

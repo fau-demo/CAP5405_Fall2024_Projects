@@ -1,0 +1,4 @@
+Open the project file in Jupyter Notebook and run it.
+A new tab will open with the GUI.
+Load the file, select a technique from the dropdown list, and press "Apply Edge Detection."
+After applying edge detection, click the "Find Similar" button to find similar frequency images (a new tab will open).
